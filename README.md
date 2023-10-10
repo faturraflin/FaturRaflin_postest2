@@ -1,4 +1,8 @@
 # FaturRaflin_postest2
+Nama : Fatur Raflin
+NIM : 2309116056
+Kelas : SI-B'23
+Tugas : Postest 2
 Admin Menu:
 
 Tambah karpet: Menambahkan produk karpet ke dalam daftar dengan menginputkan nama karpet dan harga.
